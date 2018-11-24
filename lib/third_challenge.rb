@@ -7,23 +7,23 @@ def third_challenge
         },
       :matriarch => {
         name: "Lady Montague",
-        age => "53"
+        age: "53"
         },
       :hero => {
-        name => "Romeo",
-        age => 15,
-        status => "alive"
+        name: "Romeo",
+        age: "15",
+        status: "alive"
         },
       :hero_friends => []
    }, 
    :capulet => {
       :patriarch => {
-        name => "Lord Capulet",
-        age => "50"
+        name: "Lord Capulet",
+        age: "50"
         },
       :matriarch => {
-        name => "Lady Capulet",
-        age => "51"
+        name: "Lady Capulet",
+        age: "51"
         },
       :heroine => {
         name => "Juliet",
