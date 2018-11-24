@@ -21,7 +21,7 @@ def bonus
   }
 
 epic_tragedy[][][] = "dead"
-epic_tragedy[:heroine"dead"
+epic_tragedy[:heroine][:name][]"dead"
   
 
  
